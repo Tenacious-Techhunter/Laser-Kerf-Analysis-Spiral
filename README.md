@@ -1,6 +1,6 @@
 Laser-Kerf-Analysis-Spiral
 
-  This is a currently untested release.
+Image File: Kerf Analysis Spiral Image.tif - This is a currently untested release.
 
   An image of a Logarithmic Spiral tuned for analyzing the Kerf and Taper Tolerance of Laser Cutters.
 
